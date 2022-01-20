@@ -1,0 +1,6 @@
+{"TELEGRAM_GROUP_CHAT_ID" : -00000000,
+"TELEGRAM_BOT_USERNAME" : "{{telegram_bot_username}}",
+"TELEGRAM_BOT_API_TOKEN" : "{{your_bot_api_token}}",
+"TELEGRAM_BOT_NAME" : "{{bot_name}}",
+"ZACKS_API_KEY" : "ZACKS_API_KEY",
+"USER_AGENT":"COMPANY_NAME, FULL_NAME, COMPANY_EMAIL"}
